@@ -42,6 +42,13 @@ DB_DATABASE=
 DB_USERNAME=
 DB_PASSWORD=
 ```
+
+## Diagrama ER(Entindade Relacionamento)
+
+![diagrama er](./diagrama.png)
+
+Uma encomenda pertence a uma entrega.
+
 ## Executar Migrations
 ```
 php artisan migrate
