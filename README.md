@@ -43,7 +43,7 @@ DB_USERNAME=
 DB_PASSWORD=
 ```
 
-## Diagrama ER(Entindade Relacionamento)
+## Diagrama ER(Entidade Relacionamento)
 
 ![diagrama er](./diagrama.png)
 
